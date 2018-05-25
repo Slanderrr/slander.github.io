@@ -7,7 +7,22 @@ Size: 81868
 MD5sum: 27ffb51974fb311ec5e09043093a26dd
 SHA1: fc0511ea946c6c01fbfbaeca98c94248dae0d919
 SHA256: 5eb5b91c02da0bc8ed446356e379a1cd1b15171c8d2b9d8c18114734869eb3d8
-Section: Tweaks
+Section: System
 Description: This is needed for some tweaks.
 Author: Slander <tyler.clinton@icloud.com>
 Name: libCSColorPicker
+
+
+Package: com.github.slander.libcspreferences
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Slander <tyler.clinton@icloud.com>
+Filename: /com.github.slander.libcspreferences_1.0_iphoneos-arm.deb
+Size: 379128
+MD5sum: 8d38633b9c3a07dfddc618da0eada206
+SHA1: 4697b2779cdd7a3dad31c21bafe29954913d082d
+SHA256: b778ceba5f176baa1e7c57c82f6b19d43ffc30b395221ecc68397ec63595517f
+Section: System
+Description: This is needed for some tweaks.
+Author: Slander <tyler.clinton@icloud.com>
+Name: libCSPreferences
