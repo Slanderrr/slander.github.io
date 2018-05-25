@@ -1,14 +1,13 @@
-Package: <package>
-Version: <version>
+Package: com.github.slander.libcscolorpicker
+Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Yourname <email (put in <>)>
-Depends: <bundleids>
-Filename: debs//<deb>
-Size: <deb in bytes>
-MD5sum: <md5 hash of deb>
-SHA1: <sha1 hash of deb>
-SHA256: <sha256 of deb>
-Section: <section on your repo>
-Description: <description>
-Author: Yourname <email (put in <>)>
-Name: Tweakname
+Maintainer: Slander <tyler.clinton@icloud.com>
+Filename: /com.github.slander.libcscolorpicker_1.0_iphoneos-arm.deb
+Size: 81868
+MD5sum: 27ffb51974fb311ec5e09043093a26dd
+SHA1: fc0511ea946c6c01fbfbaeca98c94248dae0d919
+SHA256: 5eb5b91c02da0bc8ed446356e379a1cd1b15171c8d2b9d8c18114734869eb3d8
+Section: Tweaks
+Description: This is needed for some tweaks.
+Author: Slander <tyler.clinton@icloud.com>
+Name: libCSColorPicker
